@@ -99,7 +99,7 @@ In order to run this project you need:
 
 ## 👥 Authors <a name="author"></a>
 
-👤 **Zelalem**
+👤 **Zelalem Yohannes**
 
 - GitHub: [@Zelalem](https://github.com/Zel-hub7)
 
